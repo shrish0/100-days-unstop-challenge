@@ -1,4 +1,3 @@
-package DAY6;
 import java.util.*;
 
 public class BeerProblemSolution2 {
