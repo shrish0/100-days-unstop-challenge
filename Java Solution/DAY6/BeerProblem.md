@@ -1,7 +1,7 @@
 
 ---
 
-# 🍺 Beer Buying Problem – Approaches Explained
+# [🍺 Beer Buying Problem – Approaches Explained](https://unstop.com/code/challenge-assessment/306969?moduleId=410)
 
 ## 📌 Problem Overview
 
